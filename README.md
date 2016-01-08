@@ -204,7 +204,7 @@
 
 ###[awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 
-###[awesome-honeypots](hhttps://github.com/paralax/awesome-honeypots)
+###[awesome-honeypots](https://github.com/paralax/awesome-honeypots)
 
 ###[awesome-javascript](https://github.com/wwsun/awesome-javascript)
 
