@@ -1,3 +1,3 @@
-# Awesome-X
+#Awesome-X
 
-####[FortAwesome/Font-Awesome]: http://example.com/
+[Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
